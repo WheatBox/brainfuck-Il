@@ -9,3 +9,5 @@
 运行：
 
     ./bfil ./helloworld.bfil
+
+![result](https://github.com/WheatBox/brainfuck-Il/blob/main/result.png)
